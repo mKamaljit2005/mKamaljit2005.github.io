@@ -4,6 +4,8 @@
 - jefk
 - djkeflg
 
+![](/images/google-play-badge.png)
+
 ### Project 1 : [Quiz App](https://google.com)
 - gvhdjihb
 - hjecwvhje
